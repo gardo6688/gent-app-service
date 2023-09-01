@@ -1,0 +1,37 @@
+.mat-mdc-form-field {
+  --mat-mdc-form-field-floating-label-scale: 0.75;
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 0;
+  text-align: left;
+  width: 100%;
+  background-color: white;
+}
+
+.mat-form-field {
+  background-color: white; /* Set background color of mat-form-field to white */
+}
+
+.mat-mdc-text-field-wrapper {
+  background-color: white;
+}
+
+.date-picker-row {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Adjust the gap between input and toggle button as needed */
+}
+
+
+.right-align {
+  text-align: right;
+}
+
+input.right-align::-webkit-outer-spin-button,
+input.right-align::-webkit-inner-spin-button {
+  display: none;
+}
+
+input.right-align {
+  -moz-appearance: textfield;
+}

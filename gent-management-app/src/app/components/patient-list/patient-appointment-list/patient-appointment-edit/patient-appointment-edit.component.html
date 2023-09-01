@@ -1,0 +1,71 @@
+<mat-card *ngIf="appointment" >
+    <mat-card-header>
+        <mat-card-title>Appointment Details</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <form [formGroup]="appointmentForm" (ngSubmit)="onSave()">
+        <mat-form-field class="wide-input">
+          <mat-label>Date</mat-label>
+          <input matInput [matDatepicker]="picker"
+            [value]="formattedDate | date:'yyyy-MM-dd'"
+            (dateChange)="updateFormattedDate($event)"
+            [(ngModel)]="formattedDate"
+            formControlName="formattedDate"
+            >
+          <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+          <mat-error *ngIf="appointmentForm.get('formattedDate')?.hasError('required')"class="text-danger">
+            Appointment Date is required.
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="wide-input">
+          <mat-label>Service Rendered</mat-label>
+          <input matInput [(ngModel)]="appointment.serviceRendered" [ngModelOptions]="{ standalone: true }">
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>Payment Type</mat-label>
+          <mat-select [(ngModel)]="appointment.paymentType" [ngModelOptions]="{ standalone: true }">
+            <mat-option value="Cash">Cash</mat-option>
+            <mat-option value="Credit Card">Credit Card</mat-option>
+            <mat-option value="GCash">GCash</mat-option>
+            <mat-option value="Maya">Maya</mat-option>
+            <mat-option value="Bank Transfer">Bank Transfer</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field class="wide-input" floatLabel="always">
+          <mat-label>Payment Amount</mat-label>
+          <input matInput type="number" class="right-align" placeholder="0"
+          [(ngModel)]="appointment.paymentAmount"
+          [ngModelOptions]="{ standalone: true }">
+          <span matTextSuffix>.00</span>
+        </mat-form-field>
+        <mat-form-field class="dentist-chip-list wide-input">
+          <mat-label>Dentists</mat-label>
+          <mat-chip-grid #chipGrid aria-label="Dentist Selection">
+            <mat-chip-row *ngFor="let dentist of appointment.dentistsArray"
+            (removed)="remove(dentist)">
+              {{dentist}}
+              <button matChipRemove [attr.aria-label]="'remove ' + dentist">
+                <mat-icon>cancel</mat-icon>
+              </button>
+            </mat-chip-row>
+          </mat-chip-grid>
+          <input placeholder="Input Dentist..." #dentistInput [formControl]="dentistControl"
+           [matChipInputFor]="chipGrid" [matAutocomplete]="auto"
+           [matChipInputSeparatorKeyCodes]="separatorKeysCodes"
+           (matChipInputTokenEnd)="add($event);debugChipInputTokenEnd($event) "/>
+
+           <mat-autocomplete #auto="matAutocomplete" (optionSelected)="selected($event); debugOptionSelected($event)">
+            <mat-option *ngFor="let dentist of filteredDentist | async" [value]="dentist">
+              {{ dentist }}
+            </mat-option>
+          </mat-autocomplete>
+
+        </mat-form-field>
+        <div class="button-row">
+          <button  mat-raised-button color="warn" class="btn btn-warn" (click)="onCancel()">Cancel</button>
+          <button mat-raised-button color="primary" type="button" class="btn btn-primary" type="submit">Save</button>
+         </div>
+      </form>
+    </mat-card-content>
+</mat-card>

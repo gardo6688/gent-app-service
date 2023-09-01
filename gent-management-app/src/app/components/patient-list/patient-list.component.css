@@ -1,0 +1,18 @@
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  flex: 1; /* Allow the input to take up all available space */
+  margin-right: 16px; /* Add some margin between input and button */
+}
+
+.search-button {
+  flex: 0; /* Prevent the button from growing */
+}
+
+.selected-item {
+  background-color: #007bff; /* Change this to your desired background color */
+  color: #ffffff; /* Change this to your desired text color */
+}

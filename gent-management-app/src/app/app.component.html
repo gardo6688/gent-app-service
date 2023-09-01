@@ -1,0 +1,11 @@
+
+	<div class="row container-fluid">
+		<div class="col-md-12">
+			<app-header (menuItemSelected)="handleMenuItemSelection($event)"></app-header>
+      <app-patient-list *ngIf="selectedMenu === 'PA'"></app-patient-list>
+      <app-dentist-commision-sheet *ngIf="selectedMenu === 'DCS'"></app-dentist-commision-sheet>
+		</div>
+	</div>
+
+
+

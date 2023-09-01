@@ -1,0 +1,45 @@
+
+
+.headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+.date-picker-row {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Adjust the gap between input and toggle button as needed */
+}
+
+.right-align {
+  text-align: right;
+}
+
+
+.mat-table-custom {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.mat-header-cell,
+.mat-cell {
+  padding: 8px;
+  text-align: left;
+}
+
+.mat-header-cell {
+  font-weight: bold;
+}
+
+/* Add responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .mat-table-custom {
+    overflow-x: auto;
+  }
+}
+
+.mat-form-field {
+  margin-bottom: 15px; /* Adjust the margin as needed */
+}

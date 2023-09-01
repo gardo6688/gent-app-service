@@ -1,0 +1,60 @@
+
+
+<mat-card *ngIf="patient">
+  <mat-card-header>
+  <mat-card-title>
+    Patient Information
+  </mat-card-title>
+</mat-card-header>
+  <mat-card-content>
+    <form *ngIf="patientForm" [formGroup]="patientForm" (ngSubmit)="savePatient()">
+    <mat-form-field class="wide-input">
+      <mat-label>First Name</mat-label>
+      <input matInput  [(ngModel)]="patient.firstName" class="form-control" formControlName="firstName">
+      <mat-error *ngIf="patientForm.get('firstName')?.hasError('required')"class="text-danger">
+        First Name is required.
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field class="wide-input">
+      <mat-label>Middle Name</mat-label>
+      <input matInput  [(ngModel)]="patient.middleName" class="form-control" formControlName="middleName">
+    </mat-form-field>
+    <mat-form-field class="wide-input">
+      <mat-label>Last Name</mat-label>
+      <input matInput  [(ngModel)]="patient.lastName" class="form-control" formControlName="lastName">
+      <mat-error *ngIf="patientForm.get('lastName')?.hasError('required') " class="text-danger">
+        Last Name is required.
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field class="wide-input">
+      <mat-label>Contact Number</mat-label>
+      <input matInput  [(ngModel)]="patient.contactNumber" class="form-control" formControlName="contactNumber">
+      <mat-error *ngIf="patientForm.get('contactNumber')?.hasError('required')" class="text-danger">
+        Contact Number is required.
+      </mat-error>
+      <mat-error *ngIf="patientForm.get('contactNumber')?.hasError('pattern') && !patientForm.get('contactNumber')?.hasError('required')" class="text-danger">
+        Invalid contact number format (e.g., 09xxxxxxxxx).
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field class="wide-input">
+      <mat-label>Address</mat-label>
+      <textarea matInput  [(ngModel)]="patient.address" class="form-control" formControlName="address"></textarea>
+    </mat-form-field>
+    <mat-form-field class="wide-input">
+      <mat-label>Email Address</mat-label>
+      <input matInput  [(ngModel)]="patient.email" class="form-control" formControlName="email">
+      <mat-error *ngIf="patientForm.get('email')?.hasError('required') " class="text-danger">
+        Email is required.
+      </mat-error>
+      <mat-error *ngIf="patientForm.get('email')?.hasError('email') && !patientForm.get('email')?.hasError('required')" class="text-danger">
+        Invalid email format.
+      </mat-error>
+    </mat-form-field>
+    <div class="button-row">
+      <button  mat-raised-button color="warn" class="btn btn-warn" (click)="cancel()">Cancel</button>
+      <button  mat-raised-button color="primary" type="submit" class="btn btn-primary">Save</button>
+     </div>
+  </form>
+  </mat-card-content>
+</mat-card>
+
