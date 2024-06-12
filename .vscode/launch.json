@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Launch ASP.NET Core (Kestrel)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/GentAppApi/bin/Debug/net8.0/GentAppApi.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/GentAppApi",
+        "stopAtEntry": false,
+        "serverReadyAction": {
+            "action": "openExternally",
+            "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+        },
+        "env": {
+            "ASPNETCORE_ENVIRONMENT": "Development",
+            "ASPNETCORE_URLS": "https://localhost:5001"
+        }
+    },
+      {
+        "name": "Launch Angular",
+        "type": "pwa-chrome",
+        "request": "launch",
+        "preLaunchTask": "run angular",
+        "url": "http://localhost:4200",
+        "webRoot": "${workspaceFolder}/gent-management-app",
+        "sourceMaps": true
+      }
+    ],
+    "compounds": [
+      {
+        "name": "Run Angular and .NET API",
+        "configurations": ["Launch ASP.NET Core (Kestrel)", "Launch Angular"]
+      }
+    ]
+  }
+  
