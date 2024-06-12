@@ -1,80 +1,161 @@
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.csproj.AssemblyReference.cache
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.AssemblyInfoInputs.cache
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.AssemblyInfo.cs
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.csproj.CoreCompileInputs.cache
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\appsettings.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\GentAppApi.exe
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\GentAppApi.deps.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\GentAppApi.runtimeconfig.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\GentAppApi.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\GentAppApi.pdb
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Humanizer.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets\msbuild.GentAppApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GentAppApi.props
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GentAppApi.props
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GentAppApi.props
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\scopedcss\bundle\GentAppApi.styles.css
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.csproj.CopyComplete
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\refint\GentAppApi.dll
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.pdb
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\GentAppApi.genruntimeconfig.cache
-C:\Users\cm.delosreyes\Documents\My Personal Files\Angular Playground\GentAppApi\obj\Debug\net7.0\ref\GentAppApi.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.csproj.AssemblyReference.cache
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.AssemblyInfoInputs.cache
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.AssemblyInfo.cs
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.csproj.CoreCompileInputs.cache
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/appsettings.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/GentAppApi.exe
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/GentAppApi.deps.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/GentAppApi.runtimeconfig.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/GentAppApi.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/GentAppApi.pdb
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Humanizer.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.GentAppApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.build.GentAppApi.props
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GentAppApi.props
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GentAppApi.props
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/scopedcss/bundle/GentAppApi.styles.css
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.csproj.CopyComplete
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/refint/GentAppApi.dll
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.pdb
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/GentAppApi.genruntimeconfig.cache
+C:/Users/cm.delosreyes/Documents/My Personal Files/Angular Playground/GentAppApi/obj/Debug/net7.0/ref/GentAppApi.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/appsettings.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/GentAppApi
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/GentAppApi.deps.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/GentAppApi.runtimeconfig.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/GentAppApi.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/GentAppApi.pdb
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Humanizer.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.csproj.AssemblyReference.cache
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.AssemblyInfoInputs.cache
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.AssemblyInfo.cs
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.csproj.CoreCompileInputs.cache
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.sourcelink.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.GentAppApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.build.GentAppApi.props
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GentAppApi.props
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GentAppApi.props
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/scopedcss/bundle/GentAppApi.styles.css
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.csproj.Up2Date
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/refint/GentAppApi.dll
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.pdb
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/GentAppApi.genruntimeconfig.cache
+/Users/christianmarxdelosreyes/Documents/My Laboratory/gent-app-service/GentAppApi/obj/Debug/net7.0/ref/GentAppApi.dll

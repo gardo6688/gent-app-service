@@ -19,14 +19,18 @@ namespace GentAppApi.Models
        
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        var configBuilder = new ConfigurationBuilder()
-            .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                var configBuilder = new ConfigurationBuilder()
+                    .SetBasePath(Directory.GetCurrentDirectory())
+                    .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
 
-        var configuration = configBuilder.Build();
-        var connectionString = configuration.GetConnectionString("DefaultConnection");
+                var configuration = configBuilder.Build();
+                var connectionString = configuration.GetConnectionString("DefaultConnection");
 
-        optionsBuilder.UseSqlServer(connectionString);
-    }
+                optionsBuilder.UseSqlServer(connectionString);
+            }
+        }
     }
 }

@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build",
+        "command": "dotnet",
+        "type": "process",
+        "args": [
+            "build",
+            "${workspaceFolder}/GentAppApi/GentAppApi.csproj"
+        ],
+        "problemMatcher": "$msCompile"
+      },
+      {
+        "label": "run angular",
+        "type": "shell",
+        "command": "ng serve",
+        "group": "build",
+        "isBackground": true,
+        "problemMatcher": [
+          "$tsc"
+        ],
+        "options": {
+          "cwd": "${workspaceFolder}/gent-management-app"
+        }
+      }
+    ]
+  }
+  
